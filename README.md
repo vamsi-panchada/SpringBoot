@@ -1,2 +1,2 @@
 # SpringBoot
-In this repo will find some of basic projects for absolute beginners.
+In this repo you will find some of basic projects for absolute beginners.
